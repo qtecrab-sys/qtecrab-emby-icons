@@ -1,0 +1,10 @@
+{
+  "name": "Qtecrab Emby Icons",
+  "description": "Qtecrab Emby Shop server icons",
+  "icons": [
+    {
+      "name": "qtecrab",
+      "url": "https://raw.githubusercontent.com/qtecrab-sys/qtecrab-emby-icons/main/qtecrab-crab.png"
+    }
+  ]
+}
