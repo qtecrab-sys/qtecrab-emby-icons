@@ -3,11 +3,11 @@
   "description": "Qtecrab Emby Shop server icons",
   "icons": [
     {
-      "name": "🦀螃蟹影视服 Premium",
+      "name": "🦀螃蟹影视服 Premium-emby",
       "url": "https://raw.githubusercontent.com/qtecrab-sys/qtecrab-emby-icons/main/qtecrab-emby-crab-mascot-v4.png"
     },
     {
-      "name": "🦀螃蟹影视服 Basic",
+      "name": "🦀螃蟹影视服 Basic-emby",
       "url": "https://raw.githubusercontent.com/qtecrab-sys/qtecrab-emby-icons/main/qtecrab-emby-crab-mascot-v4.png"
     }
   ]
